@@ -82,7 +82,7 @@
 
             <!-- Design Body -->
             <h2>Portfolio</h2>
-            <p>Application Deployed using Ansible playbook and jenkins</p>
+            <p>Application Deployed using Docker container and jenkins</p>
             <h4>Skills</h4>
             <p>AWS, Python, Shell.</p>
             <h4>Experience</h4>
