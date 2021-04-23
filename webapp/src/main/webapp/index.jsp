@@ -95,10 +95,10 @@
         <div class="col-sm-3">
 
           <!-- Login Section -->
-          <h2>Login</h2>
+          <h2>Vivek</h2>
 
           <!-- Search Section -->
-          <h2>Search</h2>
+          <h2>Bedi</h2>
 
           <!-- Nested Right Column Content -->
 
