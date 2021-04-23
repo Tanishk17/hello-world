@@ -15,7 +15,7 @@
     <link rel="icon" href="mysource_files/favicon.ico">
 
     <!-- Page Name and Site Name -->
-    <title>Page Name - Squiz Matrix HTML Example</title>
+    <title>Devops Pipeline - Practice</title>
 
     <!-- CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
@@ -39,7 +39,7 @@
         </nav>
 
         <!-- Site Name -->
-        <h1 class="h3 text-muted">Site Name</h1>
+        <h1 class="h3 text-muted">Scyrotech Portfolio</h1>
 
         <!-- Breadcrumbs -->
         <ol class="breadcrumb">
@@ -81,12 +81,12 @@
           <div class="page-contents">
 
             <!-- Design Body -->
-            <h2>Sub Heading</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
-            <h4>Sub Heading</h4>
-            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
-            <h4>Sub Heading</h4>
-            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+            <h2>Portfolio</h2>
+            <p>Application Deployed using Ansible playbook and jenkins</p>
+            <h4>Skills</h4>
+            <p>AWS, Python, Shell.</p>
+            <h4>Experience</h4>
+            <p>Over 2 years with hands on public cloud and serverless technologies.</p>
 
           </div>
 
