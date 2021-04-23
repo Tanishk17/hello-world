@@ -84,7 +84,7 @@
             <h2>Portfolio</h2>
             <p>Application Deployed using Docker container and jenkins</p>
             <h4>Skills</h4>
-            <p>AWS, Python, Shell, CI/CD</p>
+            <p>AWS, Python, Shell, CI/CD with troubleshooting experience</p>
             <h4>Experience</h4>
             <p>Over 2 years with hands on public cloud and serverless technologies.</p>
 
