@@ -109,9 +109,9 @@
       <footer class="footer">
         <p class="pull-right">
           <!-- Last Updated Design Area-->
-          Last Updated: Wednesday, January 6, 2016
+          Last Updated: Friday, April 23, 2021
         </p>
-        <p>&copy; 2016 Company, Inc.</p>
+        <p>&copy; 2021 Scyrotech, Inc.</p>
       </footer>
 
     </div> <!-- /container -->
