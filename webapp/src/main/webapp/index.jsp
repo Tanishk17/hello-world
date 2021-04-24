@@ -53,7 +53,7 @@
       <div class="page-heading">
 
         <!-- Page Heading -->
-        <h1>Page Heading</h1>
+        <h1>Docker Hub Pull</h1>
 
       </div>
 
