@@ -109,7 +109,7 @@
       <footer class="footer">
         <p class="pull-right">
           <!-- Last Updated Design Area-->
-          Last Updated: Friday, April 23, 2021
+          Last Updated: Friday, April 24, 2021
         </p>
         <p>&copy; 2021 Scyrotech, Inc.</p>
       </footer>
