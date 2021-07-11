@@ -81,10 +81,10 @@
           <div class="page-contents">
 
             <!-- Design Body -->
-            <h2>Portfolio</h2>
-            <p>Application Deployed using Ansible for deploying Docker container and jenkins</p>
+            <h2>Asking for nudes</h2>
+            <p>Hey hoe. Send nudes</p>
             <h4>Skills</h4>
-            <p>AWS, Python, Shell, CI/CD with troubleshooting experience</p>
+            <p>AWS, Python, Shell, CI/CD with troubleshooting experience. Will be studied later.. First send nudes.</p>
             <h4>Experience</h4>
             <p>Over 2 years with hands on public cloud and serverless technologies.</p>
 
