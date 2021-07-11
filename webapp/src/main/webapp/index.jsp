@@ -111,7 +111,7 @@
           <!-- Last Updated Design Area-->
           Last Updated: Friday, April 24, 2021
         </p>
-        <p>&copy; 2021 Tanentech, Inc.</p>
+        <p>&copy; 2021 Tanentech,Inc.</p>
       </footer>
 
     </div> <!-- /container -->
