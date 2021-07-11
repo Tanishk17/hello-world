@@ -84,7 +84,7 @@
             <h2>www.pranalinaked.com</h2>
             <p>Hello boys</p>
             <h4>Are you ready for some fun</h4>
-            <p>AWS, Python, Shell, CI/CD with troubleshooting experience. Will be studied later.. First let's have lots of sex rn.</p>
+            <p>Tanishk can have whatever he wants.. First let's have lots of sex rn.</p>
             <h4>Experience</h4>
             <p>Over 2 years with hands on public cloud and serverless technologies.</p>
 
