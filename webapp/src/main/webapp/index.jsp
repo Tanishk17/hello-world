@@ -39,7 +39,7 @@
         </nav>
 
         <!-- Site Name -->
-        <h1 class="h3 text-muted">Scyrotech Portfolio</h1>
+        <h1 class="h3 text-muted">Tanent Portfolio</h1>
 
         <!-- Breadcrumbs -->
         <ol class="breadcrumb">
@@ -95,10 +95,10 @@
         <div class="col-sm-3">
 
           <!-- Login Section -->
-          <h2>Vivek</h2>
+          <h2>Tanishk</h2>
 
           <!-- Search Section -->
-          <h2>Bedi</h2>
+         <h2>Khare</h2>
 
           <!-- Nested Right Column Content -->
 
@@ -111,7 +111,7 @@
           <!-- Last Updated Design Area-->
           Last Updated: Friday, April 24, 2021
         </p>
-        <p>&copy; 2021 Scyrotech, Inc.</p>
+        <p>&copy; 2021 Tanentech, Inc.</p>
       </footer>
 
     </div> <!-- /container -->
